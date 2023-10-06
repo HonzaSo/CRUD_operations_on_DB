@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PraceSeStudenty_DB</name>
+    </assembly>
+    <members>
+        <member name="T:PraceSeStudenty_DB.PraceSeStudenty">
+            <summary>
+            TOTO je DATASOURCE databaze pro praci se studenty
+            </summary>
+        </member>
+        <member name="M:PraceSeStudenty_DB.PraceSeStudenty.ZalozStudenta(System.String,System.String,System.Int64)">
+            <summary>
+            Zalozi studenta
+            </summary>
+            <param name="jmeno">Obcanske jmeno</param>
+            <param name="prijmeni">Obcanske prijmeni</param>
+            <param name="rodneCislo"></param>
+            <returns>nove ID</returns>
+        </member>
+        <member name="M:PraceSeStudenty_DB.PraceSeStudenty.VymazStudentaDleID(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="idStudenta"></param>
+        </member>
+        <member name="M:PraceSeStudenty_DB.PraceSeStudenty.UpravStudentaDleID(System.Int32,System.String)">
+            <summary>
+            Zalozi studenta
+            </summary>
+            <param name="idStudenta"></param>
+            <param name="novePrijmeni"></param>
+        </member>
+        <member name="M:PraceSeStudenty_DB.PraceSeStudenty.UpravStudentaDleRC(System.Int64,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="rodneCislo"></param>
+            <param name="novePrijmeni"></param>
+        </member>
+    </members>
+</doc>

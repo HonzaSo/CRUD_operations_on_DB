@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PraceSeStudenty_UI</name>
+    </assembly>
+    <members>
+        <member name="T:PraceSeStudenty_UI.Program">
+            <summary>
+            Toto je HOLY KLIENT pro praci s DB bez nutnosti pouzit jake koliv pomocne nastroje typu POSTMEN, IE Browser, atd....
+            </summary>
+        </member>
+    </members>
+</doc>

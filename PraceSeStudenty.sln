@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraceSeStudenty_UI", "PraceSeStudenty_UI\PraceSeStudenty_UI.csproj", "{82BCEB51-64C4-481D-9DCA-2578F4B1EA63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraceSeStudenty_DB", "PraceSeStudenty_DB\PraceSeStudenty_DB.csproj", "{BDB6AD46-5B89-401F-BD63-2DC23416FA9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82BCEB51-64C4-481D-9DCA-2578F4B1EA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BCEB51-64C4-481D-9DCA-2578F4B1EA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BCEB51-64C4-481D-9DCA-2578F4B1EA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BCEB51-64C4-481D-9DCA-2578F4B1EA63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB6AD46-5B89-401F-BD63-2DC23416FA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB6AD46-5B89-401F-BD63-2DC23416FA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB6AD46-5B89-401F-BD63-2DC23416FA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB6AD46-5B89-401F-BD63-2DC23416FA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F3CE863-A250-414F-9AC9-EAC9E935D612}
+	EndGlobalSection
+EndGlobal

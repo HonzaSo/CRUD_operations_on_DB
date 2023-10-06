@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PraceSeStudentyModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="PraceSeStudentyModelStoreContainer">
+    <EntitySet Name="Studenti" EntityType="PraceSeStudentyModel.Store.Studenti" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Studenti">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Jmeno" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Prijmeni" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="RodneCislo" Type="bigint" Nullable="false" />
+  </EntityType>
+</Schema>

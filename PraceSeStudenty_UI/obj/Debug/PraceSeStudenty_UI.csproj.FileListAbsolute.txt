@@ -1,0 +1,17 @@
+C:\Users\janso\source\repos\PraceSeStudenty\PraceSeStudenty_UI\bin\Debug\PraceSeStudenty_UI.exe.config
+C:\Users\janso\source\repos\PraceSeStudenty\PraceSeStudenty_UI\bin\Debug\PraceSeStudenty_UI.exe
+C:\Users\janso\source\repos\PraceSeStudenty\PraceSeStudenty_UI\bin\Debug\PraceSeStudenty_UI.pdb
+C:\Users\janso\source\repos\PraceSeStudenty\PraceSeStudenty_UI\obj\Debug\PraceSeStudenty_UI.csproj.AssemblyReference.cache
+C:\Users\janso\source\repos\PraceSeStudenty\PraceSeStudenty_UI\obj\Debug\PraceSeStudenty_UI.csproj.CoreCompileInputs.cache
+C:\Users\janso\source\repos\PraceSeStudenty\PraceSeStudenty_UI\obj\Debug\PraceSeStudenty_UI.exe
+C:\Users\janso\source\repos\PraceSeStudenty\PraceSeStudenty_UI\obj\Debug\PraceSeStudenty_UI.pdb
+C:\Users\janso\source\repos\PraceSeStudenty\PraceSeStudenty_UI\bin\Debug\PraceSeStudenty_UI.xml
+C:\Users\janso\source\repos\PraceSeStudenty\PraceSeStudenty_UI\bin\Debug\PraceSeStudenty_DB.dll
+C:\Users\janso\source\repos\PraceSeStudenty\PraceSeStudenty_UI\bin\Debug\EntityFramework.dll
+C:\Users\janso\source\repos\PraceSeStudenty\PraceSeStudenty_UI\bin\Debug\PraceSeStudenty_DB.pdb
+C:\Users\janso\source\repos\PraceSeStudenty\PraceSeStudenty_UI\bin\Debug\PraceSeStudenty_DB.xml
+C:\Users\janso\source\repos\PraceSeStudenty\PraceSeStudenty_UI\bin\Debug\PraceSeStudenty_DB.dll.config
+C:\Users\janso\source\repos\PraceSeStudenty\PraceSeStudenty_UI\bin\Debug\EntityFramework.xml
+C:\Users\janso\source\repos\PraceSeStudenty\PraceSeStudenty_UI\obj\Debug\PraceSeStudenty_UI.csproj.CopyComplete
+C:\Users\janso\source\repos\PraceSeStudenty\PraceSeStudenty_UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\janso\source\repos\PraceSeStudenty\PraceSeStudenty_UI\bin\Debug\EntityFramework.SqlServer.xml
